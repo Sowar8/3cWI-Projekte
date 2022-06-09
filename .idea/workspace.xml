@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c54378f3-1eab-4a42-8c63-b749631f7422" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/at/luca/school/squareGame/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/luca/school/handy/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/luca/school/handy/Handy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/luca/school/handy/PhotoFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/luca/school/handy/SDCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/luca/school/handy/Sim.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/at/luca/school/squareGame/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/luca/school/squareGame/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +39,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/lucan/Documents/swp/3cWI-Projekte",
     "nodejs_package_manager_path": "npm"
@@ -95,7 +102,7 @@
       <updated>1652433548623</updated>
       <workItem from="1652433550674" duration="595000" />
       <workItem from="1652858075568" duration="106000" />
-      <workItem from="1654790983666" duration="2993000" />
+      <workItem from="1654790983666" duration="5597000" />
     </task>
     <servers />
   </component>

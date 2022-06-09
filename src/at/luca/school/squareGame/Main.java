@@ -11,7 +11,6 @@ public class Main {
         int compsum = 0;
 
 
-
         for (int i = 5; i >= 0; i--) {
             System.out.println("Drücken Sie '1' um das Spiel zu starten ");
             Scanner scanner = new Scanner(System.in);
@@ -39,3 +38,6 @@ public class Main {
         }
     }
 }
+
+
+
