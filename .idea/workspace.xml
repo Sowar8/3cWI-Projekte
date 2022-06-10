@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="c54378f3-1eab-4a42-8c63-b749631f7422" name="Changes" comment="" />
+=======
+    <list default="true" id="c54378f3-1eab-4a42-8c63-b749631f7422" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/luca/school/handy/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/luca/school/handy/Handy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/luca/school/handy/PhotoFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/luca/school/handy/SDCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/luca/school/handy/Sim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/at/luca/school/squareGame/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/luca/school/squareGame/Main.java" afterDir="false" />
+    </list>
+>>>>>>> 3917fbd16d8bf08ef8dcb51a3d2d651a0208540e
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +39,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -33,6 +47,16 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/lucafuchs/Documents/SWP/CodeRiedmann/3cWI-Projekte&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/lucan/Documents/swp/3cWI-Projekte",
+    "nodejs_package_manager_path": "npm"
+>>>>>>> 3917fbd16d8bf08ef8dcb51a3d2d651a0208540e
   }
 }</component>
   <component name="RecentsManager">
@@ -40,7 +64,11 @@
       <recent name="$PROJECT_DIR$/src/at/luca/school/bankomat" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Test">
+=======
+  <component name="RunManager" selected="Application.Main">
+>>>>>>> 3917fbd16d8bf08ef8dcb51a3d2d651a0208540e
     <configuration name="Bankomat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="at.luca.school.bankomat.Bankomat" />
       <module name="if_bedingung" />
@@ -54,12 +82,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="at.luca.school.test.Test" />
       <module name="if_bedingung" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="at.luca.school.test.*" />
+=======
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="at.luca.school.squareGame.Main" />
+      <module name="if_bedingung" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.luca.school.squareGame.*" />
+>>>>>>> 3917fbd16d8bf08ef8dcb51a3d2d651a0208540e
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,7 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.Test" />
+=======
+        <item itemvalue="Application.Main" />
+>>>>>>> 3917fbd16d8bf08ef8dcb51a3d2d651a0208540e
         <item itemvalue="Application.Bankomat" />
         <item itemvalue="Application.test" />
       </list>
@@ -91,8 +132,13 @@
       <option name="presentableId" value="Default" />
       <updated>1652433548623</updated>
       <workItem from="1652433550674" duration="595000" />
+<<<<<<< HEAD
       <workItem from="1652858075568" duration="675000" />
       <workItem from="1654850331076" duration="591000" />
+=======
+      <workItem from="1652858075568" duration="106000" />
+      <workItem from="1654790983666" duration="5597000" />
+>>>>>>> 3917fbd16d8bf08ef8dcb51a3d2d651a0208540e
     </task>
     <servers />
   </component>
